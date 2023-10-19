@@ -148,8 +148,8 @@ section .cards {
     section h3{
         font-size: 40px;
     }
-}
 
+    
 .background-image {
     background-image:url(img/background.png);
     background-size: cover;
